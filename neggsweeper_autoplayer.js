@@ -20,7 +20,7 @@
     const MAX_ACTION_DELAY_MS = 1000; // Maximum delay before making a move
     const GAME_OVER_RESTART_DELAY_MS = 2500; // Delay before restarting after win/lose screen (e.g., 2.5 seconds)
     const GAME_URL = "https://www.neopets.com/games/neggsweeper/neggsweeper.phtml";
-  	const DIFFICULTY = "3" // Hard
+    const DIFFICULTY = "3" // Hard
 
     /**
      * Generates a random integer delay between min and max (inclusive).

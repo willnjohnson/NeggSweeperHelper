@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         NeggSweeper Autosolver
+// @name         NeggSweeper Autoplayer
 // @namespace    GreaseMonkey
 // @version      1.0
 // @description  Automates NeggSweeper gameplay.
